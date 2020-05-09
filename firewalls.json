@@ -1,0 +1,67 @@
+[
+    {
+        "attached_to_host": "router_internal",
+        "groups": {
+            "web_servers": [
+                "192.168.101.11/32",
+                "192.168.101.12/32"
+            ],
+            "internal_apis": [
+                "192.168.100.11/32",
+                "192.168.100.12/32"
+            ],
+            "secure_databases": [
+                "192.168.102.11/32",
+                "192.168.102.12/32"
+            ],
+            "smtp_servers": [
+                "192.168.101.21/32"
+            ],
+            "backup_servers": [
+                "192.168.102.3/32"
+            ],
+            "jump_hosts": [
+                "192.168.100.2/32"
+            ],
+            "auth_servers": [
+                "192.168.100.3/32"
+            ],
+            "user_hosts": [
+                "192.168.103.0/24"
+            ]
+
+        },
+        "nat_relations":  [
+            {"source_network": "192.168.100.0/24", "destination_network": "eth1"},
+            {"source_network": "192.168.101.0/24", "destination_network": "eth1"},
+            {"source_network": "192.168.102.0/24", "destination_network": "eth1"},
+            {"source_network": "192.168.103.0/24", "destination_network": "eth1"}
+        ],
+        "rules": [
+            {"s_port": "*", "s_address": "192.168.100.0/24", "d_port": "*", "d_address": "192.168.100.0/24", "protocol": "*", "action": "accept", "note": "Internal network interconnection"},
+            {"s_port": "*", "s_address": "192.168.101.0/24", "d_port": "*", "d_address": "192.168.101.0/24", "protocol": "*", "action": "accept", "note": "Exposed Network interconnection"},
+            {"s_port": "*", "s_address": "192.168.102.0/24", "d_port": "*", "d_address": "192.168.102.0/24", "protocol": "*", "action": "accept", "note": "Secure Network interconnection"},
+            {"s_port": "*", "s_address": "192.168.103.0/24", "d_port": "*", "d_address": "192.168.103.0/24", "protocol": "*", "action": "accept", "note": "User Network interconnection"},
+
+            {"s_port": "*", "s_address": "$web_servers", "d_port": "80",  "d_address": "$internal_apis", "protocol": "tcp", "action": "accept", "note": "web servers to internal apis"},
+            {"s_port": "*", "s_address": "$web_servers", "d_port": "443", "d_address": "$internal_apis", "protocol": "tcp", "action": "accept", "note": "web servers to internal apis"},
+
+            {"s_port": "*", "s_address": "$internal_apis", "d_port": "3306", "d_address": "$secure_databases", "protocol": "tcp", "action": "accept", "note": "API servers to databases"},
+
+            {"s_port": "*", "s_address": "$internal_apis", "d_port": "25", "d_address": "$smtp_servers", "protocol": "tcp", "action": "accept", "note": "Allow API server to send emails"},
+
+            {"s_port": "*", "s_address": "$backup_servers", "d_port": "22", "d_address": "192.168.100.0/24", "protocol": "tcp", "action": "accept", "note": "Backups of internal"},
+            {"s_port": "*", "s_address": "$backup_servers", "d_port": "22", "d_address": "192.168.101.0/24", "protocol": "tcp", "action": "accept", "note": "Backups of exposed"},
+
+            {"s_port": "*", "s_address": "$jump_hosts", "d_port": "22", "d_address": "192.168.101.0/24", "protocol": "tcp", "action": "accept", "note": "jumphost to secure"},
+            {"s_port": "*", "s_address": "$jump_hosts", "d_port": "22", "d_address": "192.168.102.0/24", "protocol": "tcp", "action": "accept", "note": "jumphost to exposed "},
+
+            {"s_port": "*", "s_address": "192.168.101.0/24", "d_port": "389", "d_address": "$auth_servers", "protocol": "tcp", "action": "accept", "note": "Let exposed authenticate with LDAP"},
+            {"s_port": "*", "s_address": "192.168.102.0/24", "d_port": "389", "d_address": "$auth_servers", "protocol": "tcp", "action": "accept", "note": "Let secure authenticate with LDAP"},
+
+            {"s_port": "*", "s_address": "$user_hosts", "d_port": "22", "d_address": "$jump_hosts", "protocol": "tcp", "action": "accept", "note": "Let users reach jump host"},
+
+            {"s_port": "*", "s_address": "*", "d_port": "*", "d_address": "*", "protocol": "*", "action": "deny", "note": "default deny"}
+        ]
+    }
+]

@@ -1,0 +1,612 @@
+[
+    {
+        "name": "router_external",
+        "interfaces": {
+            "eth0": {
+                "address": "x.x.x.x",
+                "netmask": "x.x.x.x",
+                "ports": []
+            },
+            "eth1": {
+                "address": "x.y.z.i",
+                "netmask": "255.255.255.240",
+                "ports": []
+            }
+        }
+    },
+    {
+        "name": "router_internal",
+        "interfaces": {
+            "eth0.100": {
+                "address": "192.168.100.1",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    },
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+                    },
+                    {
+                        "port": 53,
+                        "transport": "tcp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 53,
+                        "transport": "udp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 123,
+                        "transport": "udp",
+                        "hint": "ntp"
+                    },
+                    {
+                        "port": 1900,
+                        "transport": "udp",
+                        "hint": "upnp"
+                    }
+                ]
+            },
+            "eth0.101": {
+                "address": "192.168.101.1",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 53,
+                        "transport": "tcp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 53,
+                        "transport": "udp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 123,
+                        "transport": "udp",
+                        "hint": "ntp"
+                    },
+                    {
+                        "port": 1900,
+                        "transport": "udp",
+                        "hint": "upnp"
+                    }
+                ]
+            },
+            "eth0.102": {
+                "address": "192.168.102.1",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 53,
+                        "transport": "tcp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 53,
+                        "transport": "udp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 123,
+                        "transport": "udp",
+                        "hint": "ntp"
+                    },
+                    {
+                        "port": 1900,
+                        "transport": "udp",
+                        "hint": "upnp"
+                    }
+                ]
+            },
+            "eth0.103": {
+                "address": "192.168.103.1",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 53,
+                        "transport": "tcp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 53,
+                        "transport": "udp",
+                        "hint": "domain"
+                    },
+                    {
+                        "port": 123,
+                        "transport": "udp",
+                        "hint": "ntp"
+                    },
+                    {
+                        "port": 1900,
+                        "transport": "udp",
+                        "hint": "upnp"
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "x.y.z.j",
+                "netmask": "255.255.255.240",
+                "ports": []
+            }
+        }
+    },
+    {
+        "name": "proxy1",
+        "interfaces":{
+            "eth0": {
+                "address": "x.y.z.k",
+                "netmask": "255.255.255.240",
+                "ports": [
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "192.168.101.10",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "web1",
+        "interfaces":{
+            "eth0": {
+                "address": "x.y.z.l",
+                "netmask": "255.255.255.240",
+                "ports": [
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "192.168.101.11",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "web2",
+        "interfaces":{
+            "eth0": {
+                "address": "x.y.z.o",
+                "netmask": "255.255.255.240",
+                "ports": [
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "192.168.101.12",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "smtp1",
+        "interfaces": {
+            "eth0": {
+                "address": "x.y.z.h",
+                "netmask": "255.255.255.240",
+                "ports": [
+                    {
+                        "port": 25,
+                        "transport": "tcp",
+                        "hint": "smtp"
+
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "192.168.101.21",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 25,
+                        "transport": "tcp",
+                        "hint": "smtp"
+
+                    },
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "api1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.100.11",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "api2",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.100.12",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 80,
+                        "transport": "tcp",
+                        "hint": "http"
+
+                    },
+                    {
+                        "port": 443,
+                        "transport": "tcp",
+                        "hint": "http"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "imap1",
+        "interfaces":{
+            "eth0": {
+                "address": "x.y.z.r",
+                "netmask": "255.255.255.240",
+                "ports": [
+                    {
+                        "port": 143,
+                        "transport": "tcp",
+                        "hint": "imap"
+                    },
+                    {
+                        "port": 993,
+                        "transport": "tcp",
+                        "hint": "imap"
+                    }
+                ]
+            },
+            "eth1": {
+                "address": "192.168.101.22",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 143,
+                        "transport": "tcp",
+                        "hint": "imap"
+                    },
+                    {
+                        "port": 993,
+                        "transport": "tcp",
+                        "hint": "imap"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "db1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.102.11",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 3306,
+                        "transport": "tcp",
+                        "hint": "mysql"
+
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "db2",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.102.12",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 3306,
+                        "transport": "tcp",
+                        "hint": "mysql"
+
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "jump1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.100.2",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "auth1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.100.3",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    },
+                    {
+                        "port": 389,
+                        "transport": "tcp",
+                        "hint": "ldap"
+
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "back1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.102.3",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 22,
+                        "transport": "tcp",
+                        "hint": "ssh"
+
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "user1",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.103.11",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 139,
+                        "transport": "tcp",
+                        "hint": "netbios-ssn"
+                    },
+                    {
+                        "port": 445,
+                        "transport": "tcp",
+                        "hint": "microsoft-ds"
+                    },
+                    {
+                        "port": 135,
+                        "transport": "tcp",
+                        "hint": "rpc"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "user2",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.103.12",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 139,
+                        "transport": "tcp",
+                        "hint": "netbios-ssn"
+                    },
+                    {
+                        "port": 445,
+                        "transport": "tcp",
+                        "hint": "microsoft-ds"
+                    },
+                    {
+                        "port": 135,
+                        "transport": "tcp",
+                        "hint": "rpc"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "user3",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.103.13",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 139,
+                        "transport": "tcp",
+                        "hint": "netbios-ssn"
+                    },
+                    {
+                        "port": 445,
+                        "transport": "tcp",
+                        "hint": "microsoft-ds"
+                    },
+                    {
+                        "port": 135,
+                        "transport": "tcp",
+                        "hint": "rpc"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "user4",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.103.14",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 139,
+                        "transport": "tcp",
+                        "hint": "netbios-ssn"
+                    },
+                    {
+                        "port": 445,
+                        "transport": "tcp",
+                        "hint": "microsoft-ds"
+                    },
+                    {
+                        "port": 135,
+                        "transport": "tcp",
+                        "hint": "rpc"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "name": "user5",
+        "interfaces":{
+            "eth0": {
+                "address": "192.168.103.15",
+                "netmask": "255.255.255.0",
+                "ports": [
+                    {
+                        "port": 139,
+                        "transport": "tcp",
+                        "hint": "netbios-ssn"
+                    },
+                    {
+                        "port": 445,
+                        "transport": "tcp",
+                        "hint": "microsoft-ds"
+                    },
+                    {
+                        "port": 135,
+                        "transport": "tcp",
+                        "hint": "rpc"
+                    }
+                ]
+            }
+        }
+    }
+]
