@@ -1,0 +1,7 @@
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "Persistent Cross-Site Scripting", "CVSS Score": 9, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 80, "Protocol": "tcp", "IP": "x.y.z.o"}, "Target": "web2"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 22, "Protocol": "tcp", "IP": "192.168.101.12"}, "Target": "web2"}

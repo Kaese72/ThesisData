@@ -1,0 +1,22 @@
+{"Name": "SMB Anonymous Login Enabled", "CVSS Score": 10, "CVE": "", "Network": {"Port": 139, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "SMB Anonymous Login Enabled", "CVSS Score": 10, "CVE": "", "Network": {"Port": 445, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Microsoft Office: Out of Bounds Array Indexing Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2011-1987", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: Chinese Grammar Checking Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2014-1756", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Windows: Unquoted Service Path Vulnerability", "CVSS Score": 7.1, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "MS13-042: Microsoft Publisher: PUB File Pointer Handling Arbitrary Code Execution", "CVSS Score": 9.3, "CVE": "CVE-2013-1328", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: Excel Crafted Excel File Handling Memory Corruption", "CVSS Score": 9.3, "CVE": "CVE-2013-3889", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: Common Controls TabStrip ActiveX (MSCOMCTL.OCX) Document Handling Arbitrary Code Execution", "CVSS Score": 9.3, "CVE": "CVE-2012-1856", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: Crafted WordPerfect Document (WPD) File Handling Buffer Overflow", "CVSS Score": 9.3, "CVE": "CVE-2013-1324", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: Vulnerability in Microsoft Office Could Allow Remote Code Execution", "CVSS Score": 9.3, "CVE": "CVE-2011-1983", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microarchitectural Data Sampling Uncacheable Memory Vulnerability aka RIDL", "CVSS Score": 4.7, "CVE": "CVE-2019-11091", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microarchitectural Load Port Data Sampling Vulnerability aka RIDL", "CVSS Score": 4.7, "CVE": "CVE-2018-12127", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "SMB Signing Disabled", "CVSS Score": 6.2, "CVE": "", "Network": {"Port": 445, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Microarchitectural Fill Buffer Data Sampling Vulnerability aka ZombieLoad", "CVSS Score": 4.7, "CVE": "CVE-2018-12130", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "SMB Signing Not Required", "CVSS Score": 6.2, "CVE": "", "Network": {"Port": 445, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Microarchitectural Store Buffer Data Sampling Vulnerability aka Fallout", "CVSS Score": 4.7, "CVE": "CVE-2018-12126", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Unencrypted Remote Authentication Available - RPC", "CVSS Score": 6.8, "CVE": "", "Network": {"Port": 135, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Speculative Store Bypass aka Variant 4", "CVSS Score": 4.9, "CVE": "CVE-2018-3639", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Microsoft Office: HXDS ASLR Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2013-5057", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "user1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 139, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 445, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 135, "Protocol": "tcp", "IP": "192.168.103.11"}, "Target": "user1"}

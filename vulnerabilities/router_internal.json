@@ -1,0 +1,90 @@
+{"Name": "Product End-of-Life (EOL), Bootstrap", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Remote Desktop Client Remote Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-1290", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Remote Code Execution Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-5600", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Integer Signedness Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-8798", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Product End-of-Life (EOL), JQuery", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12108", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "DNS Recursive Queries", "CVSS Score": 5, "CVE": "CVE-1999-0024", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-8331", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12109", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: EC Point Validation Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-9499", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-20676", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2016-10735", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Password Recovery Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-9494", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-9496", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "DNS Recursive Queries", "CVSS Score": 5, "CVE": "CVE-1999-0024", "Network": {"Port": 53, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Side Channel Attacks Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-9495", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2016-3189", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Veriexec Restrictions Bypass Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-0053", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: EAP-Pwd Authentication Bypass Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-9497", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-1716", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "jQuery: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2015-9251", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-20677", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-14042", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "jQuery: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2015-9251", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Insufficient message length validation in bsnmp library", "CVSS Score": 5, "CVE": "CVE-2019-5610", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "Bootstrap: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-14040", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Authentication Bypass Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-9498", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: NULL Pointer Exception Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-8936", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Cookie not Utilizing SameSite", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "FreeBSD: NFS Cross-Site Scripting Vulnerability", "CVSS Score": 3.5, "CVE": "CVE-2018-1715", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: Unauthenticated EAPOL-Key Decryption Vulnerability", "CVSS Score": 3.6, "CVE": "CVE-2018-1452", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "FreeBSD: rsn_supp/wpa.c Information Disclosure Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2018-14526", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 80, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 22, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 53, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 123, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 123, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 123, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 123, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.100.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Integer Signedness Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-8798", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12108", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "DNS Recursive Queries", "CVSS Score": 5, "CVE": "CVE-1999-0024", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12109", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Cookie not Utilizing SameSite", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.101.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Integer Signedness Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-8798", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12108", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "DNS Recursive Queries", "CVSS Score": 5, "CVE": "CVE-1999-0024", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12109", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Cookie not Utilizing SameSite", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.102.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Integer Signedness Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-8798", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Unvalidated Redirection", "CVSS Score": 5, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12108", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "DNS Recursive Queries", "CVSS Score": 5, "CVE": "CVE-1999-0024", "Network": {"Port": 53, "Protocol": "tcp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "MiniUPnP MiniUPnPd: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12109", "Network": {"Port": 1900, "Protocol": "udp", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-Content-Type-Options: nosniff' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Cookie not Utilizing SameSite", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}
+{"Name": "Missing 'X-XSS-Protection:' response header", "CVSS Score": 0, "CVE": "", "Network": {"Port": "General", "Protocol": "General", "IP": "192.168.103.1"}, "Target": "router_internal"}

@@ -1,0 +1,7 @@
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "SQL Injection", "CVSS Score": 10, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 443, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 80, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 22, "Protocol": "tcp", "IP": "192.168.100.11"}, "Target": "api1"}

@@ -1,0 +1,343 @@
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2018-20784", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Stack-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-14897", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.9, "CVE": "CVE-2019-9503", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-12203", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Privilege Escalation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-14835", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Twice Decompress Denial of Service Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2018-16402", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 10, "CVE": "CVE-2019-14896", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Remote Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-1349", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2018-20843", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-5482", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-14895", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: l2tp_tunnel_find() Function Denial of Service Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-9517", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-15239", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-11487", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 10, "CVE": "CVE-2019-14901", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Restriction Bypass Vulnerability", "CVSS Score": 9, "CVE": "CVE-2019-14287", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-5953", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19066", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19052", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-18680", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: 64-bit Syscall Argument Generation Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-9893", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: CRC Calculation Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2016-9843", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Corruption Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2017-18509", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 10, "CVE": "CVE-2019-15292", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privileges Escalation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-12202", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: USB Sound Out-of-Bound Read Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-15927", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Pointer Arithmetic Unspecified Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2016-9841", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Remote Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-1354", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Corruption Privilege Escalation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-0155", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Protection Mechanism Bypass Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-11068", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-11477", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Code Execution Vulnerability Privilege Escalation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2016-7076", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-17075", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privileges Escalation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-13272", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 8.3, "CVE": "CVE-2019-17666", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-16995", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: get_process_ttyname() Function Input Validation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2017-1000368", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-18218", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-16746", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Spell File Handling Integer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-5953", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-6350", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-6349", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bound Access Vulnerability", "CVSS Score": 9.4, "CVE": "CVE-2019-15926", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Default Permissions Usage Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-12450", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Shell Command Injection Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-13638", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19056", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2018-20836", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Network Connectivity Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2018-1000517", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap Out-of-Bound Read Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-8457", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-15666", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-11810", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-12201", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19063", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-15916", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NTFS Protections Bypass Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-1353", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14611", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14612", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted SQL Statement Arbitrary Code Execution Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-2518", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: OS Shell Command Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2018-20969", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Access Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14610", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-14821", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Input Validation Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2018-10103", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-18805", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14616", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted SQL Statement Arbitrary Code Execution Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-2519", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-19527", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14613", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Multiple Security Vulnerabilities", "CVSS Score": 7.5, "CVE": "CVE-2017-10989", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-14816", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Input Validation Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2018-10105", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19062", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-11815", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-14814", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privileges Escalation Vulnerability", "CVSS Score": 8.3, "CVE": "CVE-2019-3846", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Remote Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-1350", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Double Free Vulnerability", "CVSS Score": 10, "CVE": "CVE-2018-20961", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-12735", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Memory Initialization Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-12204", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Remote Code Execution Vulnerability", "CVSS Score": 9.3, "CVE": "CVE-2019-1352", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Certificate Validation Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-12205", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2016-2148", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-17133", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-19068", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted SQL Statement Arbitrary Code Execution Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2017-2520", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-12900", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Access Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2018-14614", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Command Execution Vulnerability", "CVSS Score": 7.1, "CVE": "CVE-2019-9924", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bound Read Vulnerability", "CVSS Score": 10, "CVE": "CVE-2019-15505", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 7.8, "CVE": "CVE-2019-15807", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 7.5, "CVE": "CVE-2019-10126", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Coredump Implementation Locking Vulnerability", "CVSS Score": 6.9, "CVE": "CVE-2019-11599", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-13752", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 6.9, "CVE": "CVE-2019-15214", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Download Verification Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-15795", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted ELF File Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-18520", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19524", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Restore Permission Bypass Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-11503", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15118", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-13751", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-11479", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted ELF File Remote Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-18521", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Insufficient Data Validation Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-13750", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Input Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-7150", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Errors Mishandling Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-19926", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bound Read Vulnerability", "CVSS Score": 6.4, "CVE": "CVE-2019-20367", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-13734", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Side-Channel Attack vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-13627", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Input Heap-Based Buffer Over-Read Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-7149", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-5383", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2017-11109", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Protection Mechanism Bypass Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2019-6133", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Anonymous Ciphers Detected", "CVSS Score": 6.4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Virtual Drive Paths Handling Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-1351", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS RC4 Algorithm Pseudo-random Character Generation Weakness Plaintext Content Disclosure", "CVSS Score": 4.3, "CVE": "CVE-2013-2566,CVE-2015-2808", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-1010305", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-5743", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-13753", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19530", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: BusyBox Integer Overflow Access Violation Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2017-15873", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Over-Read Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-7665", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Code Execution Vulnerability", "CVSS Score": 6.5, "CVE": "CVE-2017-16544", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-19531", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2016-2147", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Microarchitectural Data Sampling Uncacheable Memory Vulnerability aka RIDL", "CVSS Score": 4.7, "CVE": "CVE-2019-11091", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Weak and Export Ciphers Detected", "CVSS Score": 6.4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-3882", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-5010", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-19906", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Code Execution Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-5094", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16229", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Left Shift Negative Integer Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2016-9842", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Repository Check Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-15796", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 6.9, "CVE": "CVE-2019-14866", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-10142", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16228", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-2215", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19051", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15215", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 6.1, "CVE": "CVE-2016-10905", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Microarchitectural Store Buffer Data Sampling Vulnerability aka Fallout", "CVSS Score": 4.7, "CVE": "CVE-2018-12126", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-13648", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-13117", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Input Validation Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-16056", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: udhcp Components Out-of-Bounds Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-5747", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: dump_callback Function Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2017-13685", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Remote Code Execution Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-1387", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Carriage Return Line Feed Injection Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-9947", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted File Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-16062", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2018-12207", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-13097", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-20679", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14882", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: 0-Byte Record Padding Oracle Data Decryption Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-1559", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2019-15902", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: noflush_merge Option Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2017-18241", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2018-20976", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2019-15790", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19523", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14467", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15216", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 6.6, "CVE": "CVE-2020-1712", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-20054", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15221", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-9213", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted bzip2 File Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2016-3189", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Memory Access Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-15117", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: BusyBox Implementation Directory Traversal Vulnerability", "CVSS Score": 5, "CVE": "CVE-2011-5325", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: SQLite Component Integer Overflow Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-5827", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-10638", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Microarchitectural Load Port Data Sampling Vulnerability aka RIDL", "CVSS Score": 4.7, "CVE": "CVE-2018-12127", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: KVM Hyperviso Use-After-Free Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-6974", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Unwinding Even Proceeding Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-20218", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-2101", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Stack-Based Buffer Over-Read Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-8905", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14464", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Overflow Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2017-16808", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Multiple Security Vulnerabilities", "CVSS Score": 5, "CVE": "CVE-2018-16452", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Directory Restriction Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-13012", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-10639", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-16413", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2018-12127", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-1010220", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16451", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-12818", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: GnuTLS Implementation Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-10845", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-3819", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Input Validation Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-15166", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14462", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16300", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: CRLF Injection Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-9740", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5.6, "CVE": "CVE-2019-19332", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2018-12126", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-17351", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Packet Usage Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-10844", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-3701", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16227", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14465", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Encryption Key Negotiation of Bluetooth Vulnerability", "CVSS Score": 4.8, "CVE": "CVE-2019-9506", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Stack-Based Buffer Over-Read Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-19519", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-10160", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2018-12130", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Microarchitectural Fill Buffer Data Sampling Vulnerability aka ZombieLoad", "CVSS Score": 4.7, "CVE": "CVE-2018-12130", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19528", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15220", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS MD5 Algorithm Weakness", "CVSS Score": 4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Input File Mishandling Vulnerability", "CVSS Score": 5.8, "CVE": "CVE-2019-13636", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-13118", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Sweet32 Attack Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2016-2183,CVE-2016-6329", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privileges Escalation Vulnerability", "CVSS Score": 6.9, "CVE": "CVE-2019-18683", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Allocation Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-15165", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: ASLR Bypass Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2019-11091", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-20852", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-19532", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Overflow Vulnerability", "CVSS Score": 6, "CVE": "CVE-2019-15167", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5.1, "CVE": "CVE-2018-14879", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Cross-Site Scripting Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-16935", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-19956", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14466", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2019-12614", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15291", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-19447", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap-Based Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-15903", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14470", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-9936", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Arbitrary Code Execution Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2018-20346", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-20406", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 6.7, "CVE": "CVE-2018-16884", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Division-by-Zero Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2019-16168", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Environment Sanitize Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2019-3842", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap Buffer Overflow Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2019-9755", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Zip File Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2015-9261", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14880", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15098", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: snapd Application Ownership Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-11502", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-3900", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-14283", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: End of File Check Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-16403", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Integer Overflow Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2020-10531", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2019-7307", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15218", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Protection Mechanisms Bypass Vulnerability", "CVSS Score": 6.4, "CVE": "CVE-2019-9948", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2019-8907", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15217", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: R3964 Line Discipline Driver Race Condition Vulnerability", "CVSS Score": 6.9, "CVE": "CVE-2019-11486", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Code Execution Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-18634", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15211", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS BEAST Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2011-3389", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 6.1, "CVE": "CVE-2019-11481", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "TLSv1.0 Detected", "CVSS Score": 4.3, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Code Execution Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-5188", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14469", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-20096", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-11478", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2016-10906", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-13099", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Double Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15212", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Unicode Encoding Improper Handling Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-9636", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14468", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-16230", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2016-6153", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-14607", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: KVM Hypervisor Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-7221", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Divide-by-Zero Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-13100", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Maliciously Crafted SQL Query Arbitrary Code Execution Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2018-20506", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-15219", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2020-7595", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2018-18310", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: ASLR Bypass Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2019-11190", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-18282", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14463", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Seccomp Filter Bypass Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-7303", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 5.1, "CVE": "CVE-2019-18197", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 5, "CVE": "CVE-2019-9937", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2018-21008", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Race Condition Denial of Service Vulnerability", "CVSS Score": 4.4, "CVE": "CVE-2017-18249", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2018-20856", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-13631", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Conditions Check Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-11157", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 4.7, "CVE": "CVE-2019-19537", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14881", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Write Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2017-18551", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2019-19525", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Application mmap System Call Denial of Service Vulnerability", "CVSS Score": 4.9, "CVE": "CVE-2018-7740", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Buffer Over-Read Vulnerability", "CVSS Score": 5, "CVE": "CVE-2018-14461", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Heap Based Buffer Overflow Vulnerability", "CVSS Score": 4.6, "CVE": "CVE-2019-5436", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Improper Pointer Arithmetic Unspecified Vulnerability", "CVSS Score": 6.8, "CVE": "CVE-2016-9840", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2020-2732", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-0816", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-11482", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-18660", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19536", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Arbitrary Paths Overwriting Vulnerability", "CVSS Score": 3.6, "CVE": "CVE-2019-1348", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-5489", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Packet Information Disclosure Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2019-3460", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-17055", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Packet Information Disclosure Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2019-3459", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11483", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2019-0136", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Use-After-Free Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19966", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-7222", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-20386", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11485", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-19965", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19535", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereference Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-18885", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2019-5108", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-1125", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-17054", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19534", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-14615", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Local Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2017-18232", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-17053", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11139", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: FUSE-Backed File Denial of Service Vulnerability", "CVSS Score": 3.5, "CVE": "CVE-2018-1120", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11135", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Out-of-Bounds Read Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2018-19985", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-12819", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: NULL Pointer Dereferences Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19227", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Cookie Spoofing Vulnerability", "CVSS Score": 3.6, "CVE": "CVE-2019-12749", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Crafted Packets Information Disclosure Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2018-10846", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2018-16888", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-18806", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-10207", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Data Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19533", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 3.3, "CVE": "CVE-2019-3874", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-17056", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11884", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: ASLR Bypass Vulnerability", "CVSS Score": 1.9, "CVE": "CVE-2019-11191", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Privilege Escalation Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-17052", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Information Disclosure Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-11833", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Memory Leakage Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-19057", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-0154", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "Ubuntu: Denial of Service Vulnerability", "CVSS Score": 2.1, "CVE": "CVE-2019-14284", "Network": {"Port": "General", "Protocol": "General", "IP": "General"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Anonymous Ciphers Detected", "CVSS Score": 6.4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "SSL/TLS RC4 Algorithm Pseudo-random Character Generation Weakness Plaintext Content Disclosure", "CVSS Score": 4.3, "CVE": "CVE-2013-2566,CVE-2015-2808", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Weak and Export Ciphers Detected", "CVSS Score": 6.4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "SSL/TLS MD5 Algorithm Weakness", "CVSS Score": 4, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "SSL/TLS Sweet32 Attack Information Disclosure Vulnerability", "CVSS Score": 5, "CVE": "CVE-2016-2183,CVE-2016-6329", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "SSL/TLS BEAST Information Disclosure Vulnerability", "CVSS Score": 4.3, "CVE": "CVE-2011-3389", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "TLSv1.0 Detected", "CVSS Score": 4.3, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "x.y.z.h"}, "Target": "smtp1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 25, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 22, "Protocol": "tcp", "IP": "192.168.101.21"}, "Target": "smtp1"}

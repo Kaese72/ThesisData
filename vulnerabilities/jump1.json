@@ -1,0 +1,1 @@
+{"Name": "Open Port", "CVSS Score": 0, "CVE": "", "Network": {"Port": 22, "Protocol": "tcp", "IP": "192.168.100.2"}, "Target": "jump1"}
