@@ -1,0 +1,2 @@
+This folder contains all vulnerabilities found on the nodes in the network.
+Each file contains the vulnerabilities on the node the file is named after
